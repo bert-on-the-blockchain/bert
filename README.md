@@ -6,5 +6,6 @@ Bert is the newest technology on the blockchain.
 - if you buy $bert, the price will go up
 - bert knows no bounds
 
+
 - Added rocketship technology up bert's hole
-- - commencing only up protocol
+- commencing only up protocol
